@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## 🚲 自行车旅行之道
 
-You can use the [editor on GitHub](https://github.com/bloomlj/zen-of-bicycle-travel/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+旅行的方式有很多，自行车也许是最自由的一种，也是非常接近修行的一种。  
+本课程希望以自行车旅行为主题，与同学们一起探讨关于自行车、旅行、健康、地理、社会、人生的一些话题。  
+课程有体验、动手、讲解、讨论多种形式，来建立对自行车旅行的全面了解。  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 参与的老师
 
-### Markdown
+- 李君
+- 陈凯
+- 深蓝
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bloomlj/zen-of-bicycle-travel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2017年春，成都
