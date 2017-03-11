@@ -4,7 +4,7 @@
 分享
 ## 知识点
 引入、问卷
-[问卷二维码](./images/zbt-surevy-qrcode.png)
+[! 问卷二维码](./images/zbt-surevy-qrcode.png)
 故事、教师介绍、互相认识、有没有梦想去同一个目的地旅行的人
 
 ### 课堂原则
@@ -18,8 +18,8 @@
 * 期末路书
 
 ### 自行车分类和结构简介
-[自行车历史、类型、原理](https://en.wikipedia.org/wiki/Bicycle)
-[结构图](https://upload.wikimedia.org/wikipedia/commons/8/8a/Bicycle_diagram-en.svg)
+[! 自行车历史、类型、原理](https://en.wikipedia.org/wiki/Bicycle)
+[! 结构图](https://upload.wikimedia.org/wikipedia/commons/8/8a/Bicycle_diagram-en.svg)
 
 ### 后续课程安排
 
